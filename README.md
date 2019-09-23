@@ -1,1 +1,1 @@
-my first CRUD with endpoints and automated test
+My first CRUD with endpoints and automated test
